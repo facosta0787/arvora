@@ -1,0 +1,21 @@
+{
+  "name": "arvora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next -p 90",
+    "build": "next build",
+    "start": "next start -p 90"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "linq": "^3.0.8",
+    "material-ui": "^0.17.4",
+    "next": "^2.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-tap-event-plugin": "^2.0.1",
+    "styled-components": "^1.4.5"
+  }
+}
